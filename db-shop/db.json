@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy s21",
+      "price": 15000,
+      "inventory": 6000,
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Oppo Reno5",
+      "price": 6000,
+      "inventory": 4000,
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "Iphone 12",
+      "price": 16000,
+      "inventory": 7000,
+      "status": true
+    }
+  ]
+}
